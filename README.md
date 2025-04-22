@@ -58,14 +58,15 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 
 </div>
 
-> [!NOTE]
+> [!IMPORTANT]
 > I'm particularly excited about the rapidly evolving field of AI, LLMs, and agentic systems. As this technology continues to develop, I've integrated AI solutions into my workflows in IP-safe ways that enhance productivity while respecting security boundaries. I've used these technologies to architect and develop both simple utilities and complex, multi-component solutions. This intersection of AI with traditional infrastructure represents a fascinating frontier with tremendous potential for innovation in automation, analysis, and decision support.
 
 ## 💻 Technical Skills
 
 I specialize in DevOps, cloud infrastructure, containerization, and security, with a focus on building robust and scalable systems. I have an extremely broad skillset, acquired over my 25 year (and counting!) career.
 
-Note: When viewing the proficiency ratings below, consider that I use a realistic scale where very few people in the world would truly merit a 5-star rating in any technology. A 2-star rating represents average proficiency, 3-stars indicates solid professional competence, 4-stars represents significant expertise, and 5-stars is reserved for world-class mastery.
+> [!TIP]  
+> When viewing the proficiency ratings below, consider that I use a realistic scale where very few people in the world would truly merit a 5-star rating in any technology. A 2-star rating represents average proficiency, 3-stars indicates solid professional competence, 4-stars represents significant expertise, and 5-stars is reserved for world-class mastery.
 
 ### Development & Scripting
 Building tools and automation frameworks is my passion. I leverage my programming skills to create efficient solutions.
