@@ -55,18 +55,18 @@
 ![OVH](https://img.shields.io/badge/OVH-★★★★★-123F6D?style=flat&logo=ovh&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x86txt&show_icons=true&theme=radical)](https://github.com/x86txt)
 
 ## 🔗 Open Source Contributions
-[![Open Source Contributions](https://img.shields.io/badge/Open_Source-Contributions-blue?style=for-the-badge)](https://github.com/pulls?q=is%3Apr+author%3AYOUR_USERNAME)
+[![Open Source Contributions](https://img.shields.io/badge/Open_Source-Contributions-blue?style=for-the-badge)](https://github.com/pulls?q=is%3Apr+author%3Ax86txt)
 
 ## 📜 Certifications
-[![Certifications](https://img.shields.io/badge/Certifications-View_Details-blue?style=for-the-badge)](https://www.credly.com/users/YOUR_USERNAME/badges)
+[![Certifications](https://img.shields.io/badge/Certifications-View_Details-blue?style=for-the-badge)](https://www.credly.com/users/x86txt/badges)
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/x86txt)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/x86txt)
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [x86txt](https://github.com/x86txt)
