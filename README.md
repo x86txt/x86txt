@@ -165,7 +165,7 @@ Multi-cloud expertise allows me to design and implement solutions across various
 
 ## 🔗 Open Source Contributions
 
-I'm passionate about contributing to open source projects as long as I feel I bring value. Here are my contributions so far in 2025:
+I'm passionate about contributing to open source projects as time permits. Here are my contributions so far in 2025:
 
 | Project | Contribution | Language |
 |---------|--------------|----------|
