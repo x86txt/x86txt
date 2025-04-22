@@ -65,6 +65,8 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 
 I specialize in DevOps, cloud infrastructure, containerization, and security, with a focus on building robust and scalable systems. I have an extremely broad skillset, acquired over my 25 year (and counting!) career.
 
+Note: When viewing the proficiency ratings below, consider that I use a realistic scale where very few people in the world would truly merit a 5-star rating in any technology. A 2-star rating represents average proficiency, 3-stars indicates solid professional competence, 4-stars represents significant expertise, and 5-stars is reserved for world-class mastery.
+
 ### Development & Scripting
 Building tools and automation frameworks is my passion. I leverage my programming skills to create efficient solutions.
 
@@ -91,6 +93,15 @@ Ensuring systems are reliable, scalable, and maintainable is core to my approach
 |------------|-------------|------------|
 | PromQL | ★★★★ | Creating advanced monitoring queries and alerting rules |
 | Groovy | ★★★ | Jenkins pipeline automation and scripting |
+| Grafana | ★★★★ | Building comprehensive monitoring dashboards and visualizations |
+| Prometheus | ★★★★ | Implementing metrics collection and alerting systems |
+| Victoria Metrics | ★★★ | High-performance time series database management |
+| Loki | ★★★ | Log aggregation and analysis at scale |
+| InfluxDB | ★★ | Time-series data storage and querying |
+| Datadog | ★★★ | Cloud-scale monitoring and observability platform |
+| New Relic | ★★★ | Application performance monitoring and diagnostics |
+| Betterstack | ★★★★ | Uptime monitoring and incident management |
+| Opsgenie | ★★★★ | Alert management and on-call scheduling |
 
 ### Database Technologies
 I work with various database solutions to ensure data persistence, performance, and reliability.
