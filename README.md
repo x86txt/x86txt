@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-I'm a DevOps Engineer and SRE professional passionate about cloud infrastructure, automation, and security. With expertise across multiple platforms and technologies, I help organizations build resilient, scalable, and secure systems.
+I'm a Principal Engineer passionate about cloud infrastructure, automation, and security. With expertise across multiple platforms and technologies, I help organizations build resilient, scalable, and secure systems.
 
 ## 🛠️ Tech Stack Badges
 
@@ -29,36 +29,36 @@ Building tools and automation frameworks is my passion. I leverage my programmin
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| Bash | ★★★★★ | Extensive shell scripting for automation and system management |
-| Python | ★★★★★ | Building automation tools, APIs, and data processing pipelines |
-| Go | ★★★★★ | Developing microservices and CLI tools for cloud environments |
+| Bash | ★★★★ | Extensive shell scripting for automation and system management |
+| Python | ★★★ | Building automation tools, APIs, and data processing pipelines |
+| Go | ★★ | Developing microservices and CLI tools for cloud environments |
 
 ### DevOps & Infrastructure as Code
 I believe in infrastructure as code and automation to enable reliable, repeatable deployments.
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| Terraform | ★★★★★ | Managing cloud infrastructure across multiple providers |
-| Ansible | ★★★★★ | Configuration management and application deployment automation |
-| Puppet | ★★★★★ | Large-scale system configuration and policy enforcement |
-| GitHub Actions | ★★★★★ | CI/CD pipeline automation and software delivery |
+| Terraform | ★★★★ | Managing cloud infrastructure across multiple providers |
+| Ansible | ★★★ | Configuration management and application deployment automation |
+| Puppet | ★★★★ | Large-scale system configuration and policy enforcement |
+| GitHub Actions | ★★★ | CI/CD pipeline automation and software delivery |
 
 ### Site Reliability Engineering (SRE)
 Ensuring systems are reliable, scalable, and maintainable is core to my approach.
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| PromQL | ★★★★★ | Creating advanced monitoring queries and alerting rules |
-| Groovy | ★★★★★ | Jenkins pipeline automation and scripting |
+| PromQL | ★★★★ | Creating advanced monitoring queries and alerting rules |
+| Groovy | ★★★ | Jenkins pipeline automation and scripting |
 
 ### Database Technologies
 I work with various database solutions to ensure data persistence, performance, and reliability.
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| PostgreSQL | ★★★★★ | High-performance relational database management |
-| MongoDB | ★★★★★ | Document-based NoSQL data storage and retrieval |
-| DynamoDB | ★★★★★ | Serverless NoSQL database operations on AWS |
+| PostgreSQL | ★★★ | High-performance relational database management |
+| MongoDB | ★★★ | Document-based NoSQL data storage and retrieval |
+| DynamoDB | ★★★ | Serverless NoSQL database operations on AWS |
 
 ### Containerization & Orchestration
 Containerization forms the foundation of my modern application deployment strategy.
@@ -66,23 +66,23 @@ Containerization forms the foundation of my modern application deployment strate
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
 | Docker | ★★★★★ | Building optimized container images and deployment workflows |
-| Firecracker | ★★★★★ | Lightweight virtualization for serverless containers |
-| Kubernetes | ★★★★★ | Large-scale container orchestration and management |
-| ArgoCD | ★★★★★ | GitOps-based continuous delivery for Kubernetes |
-| AWS Fargate | ★★★★★ | Serverless container execution without managing infrastructure |
+| Firecracker | ★★★ | Lightweight virtualization for serverless containers |
+| Kubernetes | ★★★★ | Large-scale container orchestration and management |
+| ArgoCD | ★★★★ | GitOps-based continuous delivery for Kubernetes |
+| AWS Fargate | ★★★ | Serverless container execution without managing infrastructure |
 
 ### Security & DevSecOps
 Security is integrated into every stage of my development and operations workflow.
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| Snyk | ★★★★★ | Dependency scanning and vulnerability management |
-| Codacy | ★★★★★ | Automated code reviews and static analysis |
-| SonarCloud | ★★★★★ | Continuous inspection of code quality and security |
-| OWASP ZAP | ★★★★★ | Dynamic application security testing |
-| Veracode | ★★★★★ | Static analysis security testing for applications |
-| GitGuardian | ★★★★★ | Secret detection and remediation in code repositories |
-| Nessus | ★★★★★ | Vulnerability scanning and security auditing |
+| Snyk | ★★★ | Dependency scanning and vulnerability management |
+| Codacy | ★★★ | Automated code reviews and static analysis |
+| SonarCloud | ★★★★ | Continuous inspection of code quality and security |
+| OWASP ZAP | ★★★ | Dynamic application security testing |
+| Veracode | ★★★ | Static analysis security testing for applications |
+| GitGuardian | ★★★ | Secret detection and remediation in code repositories |
+| Nessus | ★★★ | Vulnerability scanning and security auditing |
 
 ### Platforms
 I work across various operating systems and virtualization platforms to build robust infrastructure.
@@ -90,7 +90,7 @@ I work across various operating systems and virtualization platforms to build ro
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
 | Linux | ★★★★★ | Deep expertise in RedHat and Ubuntu-based distributions |
-| Windows Server | ★★★★★ | Enterprise Windows infrastructure management |
+| Windows Server | ★★★★ | Enterprise Windows infrastructure management |
 | Proxmox | ★★★★★ | Open-source virtualization platform administration |
 | VMware | ★★★★★ | Enterprise virtualization infrastructure design and management |
 
@@ -100,10 +100,10 @@ Multi-cloud expertise allows me to design and implement solutions across various
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
 | AWS | ★★★★★ | Comprehensive Amazon Web Services ecosystem expertise |
-| Azure | ★★★★★ | Microsoft Azure cloud platform for enterprise solutions |
-| GCP | ★★★★★ | Google Cloud Platform services and infrastructure |
-| Vultr | ★★★★★ | High-performance cloud computing deployment |
-| Linode | ★★★★★ | Linux server infrastructure in the cloud |
+| Azure | ★★ | Microsoft Azure cloud platform for enterprise solutions |
+| GCP | ★★ | Google Cloud Platform services and infrastructure |
+| Vultr | ★★★★ | High-performance cloud computing deployment |
+| Linode | ★★★★ | Linux server infrastructure in the cloud |
 | Fly.io | ★★★★★ | Deploying applications globally close to users |
 | Hetzner | ★★★★★ | Dedicated server and cloud infrastructure management |
 | OVH | ★★★★★ | European-based cloud and dedicated hosting solutions |
