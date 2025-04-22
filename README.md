@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Matt - 👋
 
-I'm a Principal Engineer passionate about cloud infrastructure, automation, and security. With expertise across multiple platforms and technologies, I help organizations build resilient, scalable, and secure systems.
+I'm a Principal Engineer passionate about cloud infrastructure, automation, and security. With decades of experience to build upon, I have expertise across multiple platforms and technologies and I love to help organizations build resilient, scalable, and secure systems.
 
 ## 🛠️ Tech Stack Badges
 
@@ -22,7 +22,7 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 
 ## 💻 Technical Skills
 
-I specialize in DevOps, cloud infrastructure, containerization, and security, with a focus on building robust and scalable systems.
+I specialize in DevOps, cloud infrastructure, containerization, and security, with a focus on building robust and scalable systems. I have an extremely broad skillset, acquired over my 25 year (and counting!) career.
 
 ### Development & Scripting
 Building tools and automation frameworks is my passion. I leverage my programming skills to create efficient solutions.
@@ -100,6 +100,7 @@ Multi-cloud expertise allows me to design and implement solutions across various
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
 | AWS | ★★★★★ | Comprehensive Amazon Web Services ecosystem expertise |
+| Cloudflare | ★★★★ | Edge network services for content delivery, DDoS protection, and zero-trust security |
 | Azure | ★★ | Microsoft Azure cloud platform for enterprise solutions |
 | GCP | ★★ | Google Cloud Platform services and infrastructure |
 | Vultr | ★★★★ | High-performance cloud computing deployment |
@@ -115,7 +116,7 @@ Multi-cloud expertise allows me to design and implement solutions across various
 
 ## 🔗 Open Source Contributions
 
-I'm passionate about contributing to open source projects that align with my interests in infrastructure, DevOps, and security.
+I'm passionate about contributing to open source projects as long as I feel I bring value. Here are my contributions so far in 2025:
 
 | Project | Contribution |
 |---------|--------------|
@@ -129,7 +130,7 @@ I maintain industry-recognized certifications to validate my expertise in cloud 
 | Certification | Issuing Organization | Description |
 |---------------|----------------------|-------------|
 | [<img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />](https://www.credly.com/badges/560a4d43-a9c9-43dd-8d2c-dc17b4c0f5e3/public_url) | Amazon Web Services | **AWS Certified Solutions Architect - Associate**<br />Validates expertise in designing distributed systems on AWS. Demonstrates knowledge of AWS services, security best practices, and cost optimization. |
-| [<img src="https://images.credly.com/size/110x110/images/5e6f5247-1d61-4932-a5da-999a7feec067/1_CISSP2.png" width="100" />](https://www.credly.com/badges/0e9019e7-545f-4243-9d8f-83c14c4dea7a/public_url) | (ISC)² | **Certified Information Systems Security Professional (CISSP)**<br />Demonstrates expertise across eight domains of information security, including security operations, asset security, and security architecture. |
+| [<img src="https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" width="100" />](https://www.credly.com/badges/0e9019e7-545f-4243-9d8f-83c14c4dea7a/public_url) | (ISC)² | **Certified Information Systems Security Professional (CISSP)**<br />Demonstrates expertise across eight domains of information security, including security operations, asset security, and security architecture. |
 
 ## 📫 How to reach me
 
