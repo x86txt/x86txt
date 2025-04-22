@@ -59,7 +59,7 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 </div>
 
 > [!IMPORTANT]
-> I'm particularly excited about the rapidly evolving field of AI, LLMs, and agentic systems. As this technology continues to develop, I've integrated AI solutions into my workflows in IP-safe ways that enhance productivity while respecting security boundaries. I've used these technologies to architect and develop both simple utilities and complex, multi-component solutions. This intersection of AI with traditional infrastructure represents a fascinating frontier with tremendous potential for innovation in automation, analysis, and decision support.
+> I'm particularly excited about the rapidly evolving field of AI, LLMs, and agentic systems. As this technology continues to develop, I've integrated AI solutions into my workflows in IP-safe ways that decrease completion times by orders of magnitude while respecting security boundaries. I've used these technologies to architect and develop both simple utilities and complex, multi-component solutions. This intersection of AI with traditional infrastructure represents a fascinating frontier with tremendous potential for innovation in automation, analysis, and decision support.
 
 ## 💻 Technical Skills
 
