@@ -118,10 +118,10 @@ Multi-cloud expertise allows me to design and implement solutions across various
 
 I'm passionate about contributing to open source projects as long as I feel I bring value. Here are my contributions so far in 2025:
 
-| Project | Contribution |
-|---------|--------------|
-| [GpgFrontend](https://github.com/saturneric/GpgFrontend/pull/209) | Added Linux dark mode detection for Fusion theme in Qt6, enabling the application to automatically adapt to system theme changes on Linux desktop environments. |
-| [Pangolin](https://github.com/fosrl/pangolin/pull/511) | Implemented sticky sessions functionality for backend resources, allowing session persistence when multiple targets exist - essential for stateful applications like VNC console sessions to Proxmox. |
+| Project | Contribution | Language |
+|---------|--------------|----------|
+| [GpgFrontend](https://github.com/saturneric/GpgFrontend/pull/209) | Added Linux dark mode detection for Fusion theme in Qt6, enabling the application to automatically adapt to system theme changes on Linux desktop environments. | C++ |
+| [Pangolin](https://github.com/fosrl/pangolin/pull/511) | Implemented sticky sessions functionality for backend resources, allowing session persistence when multiple targets exist - essential for stateful applications like VNC console sessions to Proxmox. | TypeScript |
 
 ## 📜 Certifications
 
@@ -138,7 +138,8 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 <div align="center">
   
-<----- look over there
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mevanssecurity/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/x86txt)
   
 </div>
 
