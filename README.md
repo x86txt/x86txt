@@ -37,10 +37,10 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 <td width="50%" align="center" valign="middle">
 
 ### ☁️ Platform & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10&logoColor=white)
 
 </td>
 </tr>
@@ -52,7 +52,8 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 <div align="center">
   
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-0D96F6?style=for-the-badge&logoColor=white)
+![LocalAI](https://img.shields.io/badge/LocalAI-35B982?style=for-the-badge&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-0B0D0E?style=for-the-badge)
 
 </div>
