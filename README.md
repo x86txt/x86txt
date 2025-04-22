@@ -1,71 +1,145 @@
-# Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-## 🛠️ Technologies & Tools
+I'm a DevOps Engineer and SRE professional passionate about cloud infrastructure, automation, and security. With expertise across multiple platforms and technologies, I help organizations build resilient, scalable, and secure systems.
+
+## 🛠️ Tech Stack Badges
+
+<div align="center">
+  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 💻 Technical Skills
+
+I specialize in DevOps, cloud infrastructure, containerization, and security, with a focus on building robust and scalable systems.
 
 ### Development & Scripting
-![Bash](https://img.shields.io/badge/Bash-★★★★★-black?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-★★★★★-blue?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-★★★★★-00ADD8?style=flat&logo=go&logoColor=white)
+Building tools and automation frameworks is my passion. I leverage my programming skills to create efficient solutions.
 
-### DevOps
-![Terraform](https://img.shields.io/badge/Terraform-★★★★★-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-★★★★★-EE0000?style=flat&logo=ansible&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-★★★★★-FFA500?style=flat&logo=puppet&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-★★★★★-2088FF?style=flat&logo=github-actions&logoColor=white)
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| Bash | ★★★★★ | Extensive shell scripting for automation and system management |
+| Python | ★★★★★ | Building automation tools, APIs, and data processing pipelines |
+| Go | ★★★★★ | Developing microservices and CLI tools for cloud environments |
 
-### SRE
-![PromQL](https://img.shields.io/badge/PromQL-★★★★★-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-★★★★★-4298B8?style=flat&logo=apache-groovy&logoColor=white)
+### DevOps & Infrastructure as Code
+I believe in infrastructure as code and automation to enable reliable, repeatable deployments.
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★★★★-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-★★★★★-47A248?style=flat&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-★★★★★-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| Terraform | ★★★★★ | Managing cloud infrastructure across multiple providers |
+| Ansible | ★★★★★ | Configuration management and application deployment automation |
+| Puppet | ★★★★★ | Large-scale system configuration and policy enforcement |
+| GitHub Actions | ★★★★★ | CI/CD pipeline automation and software delivery |
+
+### Site Reliability Engineering (SRE)
+Ensuring systems are reliable, scalable, and maintainable is core to my approach.
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| PromQL | ★★★★★ | Creating advanced monitoring queries and alerting rules |
+| Groovy | ★★★★★ | Jenkins pipeline automation and scripting |
+
+### Database Technologies
+I work with various database solutions to ensure data persistence, performance, and reliability.
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| PostgreSQL | ★★★★★ | High-performance relational database management |
+| MongoDB | ★★★★★ | Document-based NoSQL data storage and retrieval |
+| DynamoDB | ★★★★★ | Serverless NoSQL database operations on AWS |
 
 ### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/Docker-★★★★★-2496ED?style=flat&logo=docker&logoColor=white)
-![Firecracker](https://img.shields.io/badge/Firecracker-★★★★★-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-★★★★★-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-★★★★★-EF7B4D?style=flat&logo=argo&logoColor=white)
-![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-★★★★★-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+Containerization forms the foundation of my modern application deployment strategy.
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| Docker | ★★★★★ | Building optimized container images and deployment workflows |
+| Firecracker | ★★★★★ | Lightweight virtualization for serverless containers |
+| Kubernetes | ★★★★★ | Large-scale container orchestration and management |
+| ArgoCD | ★★★★★ | GitOps-based continuous delivery for Kubernetes |
+| AWS Fargate | ★★★★★ | Serverless container execution without managing infrastructure |
 
 ### Security & DevSecOps
-![Snyk](https://img.shields.io/badge/Snyk-★★★★★-00C9B9?style=flat&logo=snyk&logoColor=white)
-![Codacy](https://img.shields.io/badge/Codacy-★★★★★-222F29?style=flat&logo=codacy&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-★★★★★-F3702A?style=flat&logo=sonarcloud&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-★★★★★-000000?style=flat&logo=owasp&logoColor=white)
-![Veracode](https://img.shields.io/badge/Veracode-★★★★★-00A1E0?style=flat&logo=veracode&logoColor=white)
-![GitGuardian](https://img.shields.io/badge/GitGuardian-★★★★★-1A1A1A?style=flat&logo=gitguardian&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-★★★★★-00A1E0?style=flat&logo=tenable&logoColor=white)
+Security is integrated into every stage of my development and operations workflow.
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| Snyk | ★★★★★ | Dependency scanning and vulnerability management |
+| Codacy | ★★★★★ | Automated code reviews and static analysis |
+| SonarCloud | ★★★★★ | Continuous inspection of code quality and security |
+| OWASP ZAP | ★★★★★ | Dynamic application security testing |
+| Veracode | ★★★★★ | Static analysis security testing for applications |
+| GitGuardian | ★★★★★ | Secret detection and remediation in code repositories |
+| Nessus | ★★★★★ | Vulnerability scanning and security auditing |
 
 ### Platforms
-![Linux](https://img.shields.io/badge/Linux-★★★★★-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-★★★★★-0078D6?style=flat&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-★★★★★-E57000?style=flat&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-★★★★★-607078?style=flat&logo=vmware&logoColor=white)
+I work across various operating systems and virtualization platforms to build robust infrastructure.
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| Linux | ★★★★★ | Deep expertise in RedHat and Ubuntu-based distributions |
+| Windows Server | ★★★★★ | Enterprise Windows infrastructure management |
+| Proxmox | ★★★★★ | Open-source virtualization platform administration |
+| VMware | ★★★★★ | Enterprise virtualization infrastructure design and management |
 
 ### Cloud Providers
-![AWS](https://img.shields.io/badge/AWS-★★★★★-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-★★★★★-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-★★★★★-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-★★★★★-007BFC?style=flat&logo=vultr&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-★★★★★-00A95C?style=flat&logo=linode&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-★★★★★-7B3DFF?style=flat&logo=fly.io&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-★★★★★-D50C2D?style=flat&logo=hetzner&logoColor=white)
-![OVH](https://img.shields.io/badge/OVH-★★★★★-123F6D?style=flat&logo=ovh&logoColor=white)
+Multi-cloud expertise allows me to design and implement solutions across various platforms.
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| AWS | ★★★★★ | Comprehensive Amazon Web Services ecosystem expertise |
+| Azure | ★★★★★ | Microsoft Azure cloud platform for enterprise solutions |
+| GCP | ★★★★★ | Google Cloud Platform services and infrastructure |
+| Vultr | ★★★★★ | High-performance cloud computing deployment |
+| Linode | ★★★★★ | Linux server infrastructure in the cloud |
+| Fly.io | ★★★★★ | Deploying applications globally close to users |
+| Hetzner | ★★★★★ | Dedicated server and cloud infrastructure management |
+| OVH | ★★★★★ | European-based cloud and dedicated hosting solutions |
 
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x86txt&show_icons=true&theme=radical)](https://github.com/x86txt)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x86txt&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ## 🔗 Open Source Contributions
-[![Open Source Contributions](https://img.shields.io/badge/Open_Source-Contributions-blue?style=for-the-badge)](https://github.com/pulls?q=is%3Apr+author%3Ax86txt)
+
+I'm passionate about contributing to open source projects that align with my interests in infrastructure, DevOps, and security.
+
+| Project | Contribution |
+|---------|--------------|
+| [GpgFrontend](https://github.com/saturneric/GpgFrontend/pull/209) | Added Linux dark mode detection for Fusion theme in Qt6, enabling the application to automatically adapt to system theme changes on Linux desktop environments. |
+| [Pangolin](https://github.com/fosrl/pangolin/pull/511) | Implemented sticky sessions functionality for backend resources, allowing session persistence when multiple targets exist - essential for stateful applications like VNC console sessions to Proxmox. |
 
 ## 📜 Certifications
-[![Certifications](https://img.shields.io/badge/Certifications-View_Details-blue?style=for-the-badge)](https://www.credly.com/users/x86txt/badges)
+
+I maintain industry-recognized certifications to validate my expertise in cloud architecture and security.
+
+| Certification | Issuing Organization | Description |
+|---------------|----------------------|-------------|
+| [<img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />](https://www.credly.com/badges/560a4d43-a9c9-43dd-8d2c-dc17b4c0f5e3/public_url) | Amazon Web Services | **AWS Certified Solutions Architect - Associate**<br />Validates expertise in designing distributed systems on AWS. Demonstrates knowledge of AWS services, security best practices, and cost optimization. |
+| [<img src="https://images.credly.com/size/110x110/images/5e6f5247-1d61-4932-a5da-999a7feec067/1_CISSP2.png" width="100" />](https://www.credly.com/badges/0e9019e7-545f-4243-9d8f-83c14c4dea7a/public_url) | (ISC)² | **Certified Information Systems Security Professional (CISSP)**<br />Demonstrates expertise across eight domains of information security, including security operations, asset security, and security architecture. |
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/x86txt)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/x86txt)
+
+I'm always open to interesting conversations and collaboration opportunities.
+
+<div align="center">
+  
+<----- look over there
+  
+</div>
 
 ---
 
