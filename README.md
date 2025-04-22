@@ -162,10 +162,6 @@ Multi-cloud expertise allows me to design and implement solutions across various
 | Hetzner | ★★★ | Dedicated server and cloud infrastructure management |
 | OVH | ★★★ | European-based cloud and dedicated hosting solutions |
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x86txt&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 🔗 Open Source Contributions
 
