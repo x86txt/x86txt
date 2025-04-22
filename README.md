@@ -1,4 +1,4 @@
-# Hi there, I'm Matt - <img src="memoji.png" width="60" align="center" />
+# Hi there, I'm Matt - <img src="memoji.png" width="40" align="center" />
 
 I'm a Principal Engineer passionate about cloud infrastructure, automation, and security. With decades of experience to build upon, I am fluent across multiple platforms and technologies and I love to help organizations build resilient, scalable, and secure systems. I excel at holistic, big picture thinking while maintaining attention to critical details, allowing me to design elegant solutions to complex problems and effectively bridge the gap between technical implementation and business objectives.
 
