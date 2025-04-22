@@ -54,7 +54,7 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-0D96F6?style=for-the-badge&logoColor=white)
 ![LocalAI](https://img.shields.io/badge/LocalAI-35B982?style=for-the-badge&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-0B0D0E?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-7E57C2?style=for-the-badge&logoColor=white)
 
 </div>
 
