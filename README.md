@@ -5,9 +5,9 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 ## 🛠️ Tech Stack At-a-Glance
 
 <div align="center">
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 ### 💻 Languages & Development
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -15,7 +15,7 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 ### 🔄 DevOps & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -27,24 +27,38 @@ I'm a Principal Engineer passionate about cloud infrastructure, automation, and 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Platform & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </td>
 </tr>
 </table>
 </div>
+
+## 🤖 AI & Agentic Systems
+
+<div align="center">
+  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-0B0D0E?style=for-the-badge)
+
+</div>
+
+> [!NOTE]
+> I'm particularly excited about the rapidly evolving field of AI, LLMs, and agentic systems. As this technology continues to develop, I've integrated AI solutions into my workflows in IP-safe ways that enhance productivity while respecting security boundaries. I've used these technologies to architect and develop both simple utilities and complex, multi-component solutions. This intersection of AI with traditional infrastructure represents a fascinating frontier with tremendous potential for innovation in automation, analysis, and decision support.
 
 ## 💻 Technical Skills
 
@@ -165,7 +179,6 @@ I'm always open to interesting conversations and collaboration opportunities.
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mevanssecurity/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/x86txt)
   
 </div>
 
