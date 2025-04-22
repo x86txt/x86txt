@@ -1,6 +1,6 @@
 # Hi there, I'm Matt - 👋
 
-I'm a Principal Engineer passionate about cloud infrastructure, automation, and security. With decades of experience to build upon, I have expertise across multiple platforms and technologies and I love to help organizations build resilient, scalable, and secure systems.
+I'm a Principal Engineer passionate about cloud infrastructure, automation, and security. With decades of experience to build upon, I am fluent across multiple platforms and technologies and I love to help organizations build resilient, scalable, and secure systems.
 
 ## 🛠️ Tech Stack Badges
 
