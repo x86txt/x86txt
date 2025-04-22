@@ -73,17 +73,17 @@ Building tools and automation frameworks is my passion. I leverage my programmin
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| Bash | ★★★★ | Extensive shell scripting for automation and system management |
-| Python | ★★★ | Building automation tools, APIs, and data processing pipelines |
-| Go | ★★ | Developing microservices and CLI tools for cloud environments |
+| Bash | ★★★ | Extensive shell scripting for automation and system management |
+| Python | ★★ | Building automation tools, APIs, and data processing pipelines |
+| Go | ★ | Developing microservices and CLI tools for cloud environments |
 
 ### DevOps & Infrastructure as Code
 I believe in infrastructure as code and automation to enable reliable, repeatable deployments.
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| Terraform | ★★★★ | Managing cloud infrastructure across multiple providers |
-| Ansible | ★★★ | Configuration management and application deployment automation |
+| Terraform | ★★★ | Managing cloud infrastructure across multiple providers |
+| Ansible | ★★ | Configuration management and application deployment automation |
 | Puppet | ★★★★ | Large-scale system configuration and policy enforcement |
 | GitHub Actions | ★★★ | CI/CD pipeline automation and software delivery |
 
@@ -92,17 +92,17 @@ Ensuring systems are reliable, scalable, and maintainable is core to my approach
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| PromQL | ★★★★ | Creating advanced monitoring queries and alerting rules |
+| PromQL | ★★★ | Creating advanced monitoring queries and alerting rules |
 | Groovy | ★★★ | Jenkins pipeline automation and scripting |
-| Grafana | ★★★★ | Building comprehensive monitoring dashboards and visualizations |
-| Prometheus | ★★★★ | Implementing metrics collection and alerting systems |
+| Grafana | ★★★ | Building comprehensive monitoring dashboards and visualizations |
+| Prometheus | ★★★ | Implementing metrics collection and alerting systems |
 | Victoria Metrics | ★★★ | High-performance time series database management |
 | Loki | ★★★ | Log aggregation and analysis at scale |
 | InfluxDB | ★★ | Time-series data storage and querying |
 | Datadog | ★★★ | Cloud-scale monitoring and observability platform |
 | New Relic | ★★★ | Application performance monitoring and diagnostics |
-| Betterstack | ★★★★ | Uptime monitoring and incident management |
-| Opsgenie | ★★★★ | Alert management and on-call scheduling |
+| Betterstack | ★★★ | Uptime monitoring and incident management |
+| Opsgenie | ★★ | Alert management and on-call scheduling |
 
 ### Database Technologies
 I work with various database solutions to ensure data persistence, performance, and reliability.
@@ -118,10 +118,10 @@ Containerization forms the foundation of my modern application deployment strate
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| Docker | ★★★★★ | Building optimized container images and deployment workflows |
+| Docker | ★★★★ | Building optimized container images and deployment workflows |
 | Firecracker | ★★★ | Lightweight virtualization for serverless containers |
-| Kubernetes | ★★★★ | Large-scale container orchestration and management |
-| ArgoCD | ★★★★ | GitOps-based continuous delivery for Kubernetes |
+| Kubernetes | ★★★ | Large-scale container orchestration and management |
+| ArgoCD | ★★★ | GitOps-based continuous delivery for Kubernetes |
 | AWS Fargate | ★★★ | Serverless container execution without managing infrastructure |
 
 ### Security & DevSecOps
@@ -131,7 +131,7 @@ Security is integrated into every stage of my development and operations workflo
 |------------|-------------|------------|
 | Snyk | ★★★ | Dependency scanning and vulnerability management |
 | Codacy | ★★★ | Automated code reviews and static analysis |
-| SonarCloud | ★★★★ | Continuous inspection of code quality and security |
+| SonarCloud | ★★★ | Continuous inspection of code quality and security |
 | OWASP ZAP | ★★★ | Dynamic application security testing |
 | Veracode | ★★★ | Static analysis security testing for applications |
 | GitGuardian | ★★★ | Secret detection and remediation in code repositories |
@@ -142,25 +142,25 @@ I work across various operating systems and virtualization platforms to build ro
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| Linux | ★★★★★ | Deep expertise in RedHat and Ubuntu-based distributions |
+| Linux | ★★★★ | Deep expertise in RedHat and Ubuntu-based distributions |
 | Windows Server | ★★★★ | Enterprise Windows infrastructure management |
-| Proxmox | ★★★★★ | Open-source virtualization platform administration |
-| VMware | ★★★★★ | Enterprise virtualization infrastructure design and management |
+| Proxmox | ★★★★ | Open-source virtualization platform administration |
+| VMware | ★★★★ | Enterprise virtualization infrastructure design and management |
 
 ### Cloud Providers
 Multi-cloud expertise allows me to design and implement solutions across various platforms.
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| AWS | ★★★★★ | Comprehensive Amazon Web Services ecosystem expertise |
+| AWS | ★★★★ | Comprehensive Amazon Web Services ecosystem expertise |
 | Cloudflare | ★★★★ | Edge network services for content delivery, DDoS protection, and zero-trust security |
 | Azure | ★★ | Microsoft Azure cloud platform for enterprise solutions |
 | GCP | ★★ | Google Cloud Platform services and infrastructure |
 | Vultr | ★★★★ | High-performance cloud computing deployment |
-| Linode | ★★★★ | Linux server infrastructure in the cloud |
-| Fly.io | ★★★★★ | Deploying applications globally close to users |
-| Hetzner | ★★★★★ | Dedicated server and cloud infrastructure management |
-| OVH | ★★★★★ | European-based cloud and dedicated hosting solutions |
+| Linode | ★★★ | Linux server infrastructure in the cloud |
+| Fly.io | ★★★ | Deploying applications globally close to users |
+| Hetzner | ★★★ | Dedicated server and cloud infrastructure management |
+| OVH | ★★★ | European-based cloud and dedicated hosting solutions |
 
 ## 📊 GitHub Stats
 <div align="center">
