@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./memoji.png" width="140" alt="Matt Evans memoji" />
+  <img src="./assets/memoji.png" width="140" alt="Matt Evans memoji" />
 
   <h1>Matt Evans</h1>
   <p><strong>Principal Engineer – Cloud Infrastructure, DevOps & Security</strong></p>
@@ -54,6 +54,10 @@ I contribute to open source when I can, especially where reliability, automation
 |--------|--------------|----------|
 | [GpgFrontend](https://github.com/saturneric/GpgFrontend/pull/209) | Added Linux dark mode detection for Fusion theme in Qt6, enabling the application to automatically adapt to system theme changes on Linux desktop environments. | C++ |
 | [Pangolin](https://github.com/fosrl/pangolin/pull/511) | Implemented sticky sessions functionality for backend resources, allowing session persistence when multiple targets exist—essential for stateful applications like VNC console sessions to Proxmox. | TypeScript |
+
+<div align="center">
+  <img src="./assets/cursor-usage-2025.gif" alt="Cursor AI usage for 2025" width="75%" />
+</div>
 
 ## Toolbox (short version)
 
