@@ -1,208 +1,338 @@
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   ┌┬┐┌─┐┌┬┐┌┬┐  ┌─┐┬  ┬┌─┐┌┐┌┌─┐                          ║
+║   │││├─┤ │  │   ├┤ └┐┌┘├─┤│││└─┐                          ║
+║   ┴ ┴┴ ┴ ┴  ┴   └─┘ └┘ ┴ ┴┘└┘└─┘                          ║
+║                                                           ║
+║   Principal Engineer · Cloud · DevOps · Security          ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-  <img src="./assets/memoji.png" width="140" alt="Matt Evans memoji" />
+<img src="./assets/memoji.png" width="120" alt="matt" />
 
-  <h1>Matt Evans</h1>
-  <p><strong>Principal Engineer – Cloud Infrastructure, DevOps & Security</strong></p>
-  <p>Building resilient, secure platforms and using AI to move engineering 10× faster.</p>
-
-  <a href="https://www.linkedin.com/in/mevanssecurity/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Connect" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-181717?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mevanssecurity/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/x86txt)
 
 </div>
 
 ---
 
-## About me
+## `$ whoami`
 
-I'm a Principal Engineer with 25+ years of experience across cloud, infrastructure, automation, and security. I enjoy big-picture architecture just as much as hands-on implementation, and I put a lot of care into building systems that are resilient, observable, and maintainable.
+```text
+Principal Engineer with 25+ years building cloud infrastructure, automation,
+and security systems. Equal parts architect and implementer. I build things
+that are resilient, observable, and maintainable.
+```
 
-- **Cloud & platforms**: Designing and operating multi-cloud and hybrid environments with a strong focus on reliability and cost-awareness.
-- **Automation & DevOps**: Turning tribal knowledge into code—CI/CD, infrastructure as code, and robust release pipelines.
-- **Security & governance**: Baking security into platforms and workflows instead of bolting it on at the end.
+**Current runtime:**
+- `AI_AUGMENTED_ENGINEERING=true` — LLMs in workflows, IP-safe
+- `PLATFORM_SRE=active` — Golden paths, observability, toil reduction
+- `SECURITY=default` — Policy as code, drift detection, hardening at scale
 
-## What I'm focused on right now
+---
 
-- **AI-augmented engineering**: Integrating LLMs and agentic systems into day-to-day workflows in IP-safe, security-conscious ways.
-- **Platform & SRE practices**: Standardizing golden paths, improving observability, and reducing toil for engineering teams.
-- **Secure-by-default infrastructure**: Using automation to enforce policy, detect drift, and keep systems hardened at scale.
+## `$ ls -la ~/projects/`
 
-## 🤖 AI & agentic systems
+### Maintained
 
-I'm particularly excited about the rapidly evolving field of AI, LLMs, and agentic systems. I've integrated AI into my workflows to dramatically reduce completion times while respecting security boundaries and IP constraints, using it to architect and build everything from small utilities to complex multi-component solutions.
+```
+drwxr-xr-x  goWipeMe           Go        Privacy utility, DoD-grade wiping
+drwxr-xr-x  aiTriage           Py/TS     SRE incident analysis + LLM reports
+drwxr-xr-x  unifi_contrld      Shell     ControlD on UniFi, persists updates
+drwxr-xr-x  argocd_2025        Shell     GitOps K8s, App-of-Apps pattern
+```
+
+<table>
+<tr>
+<td>
+
+### [`goWipeMe`](https://github.com/Secunit-Mercantile/goWipeMe)
+
+Cross-platform privacy & data sanitization. GUI + TUI interfaces.
+
+```
+Features:
+├── Browser history clearing
+├── Secure disk wiping
+│   ├── Single pass (zeros)
+│   ├── DoD 5220.22-M (3-pass)
+│   └── Gutmann (35-pass)
+├── Backup & restore
+└── Dry-run preview
+```
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+</td>
+<td>
+
+### [`aiTriage`](https://github.com/x86txt/portfolio_sre_agent)
+
+Automated SRE incident analysis and correlation.
+
+```
+Pipeline:
+├── Ingest (Prometheus, Datadog)
+├── Correlate (signal analysis)
+├── Generate (situation reports)
+└── LLM narrative (optional)
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [`unifi_contrld`](https://github.com/x86txt/unifi_contrld)
+
+ControlD daemon automation for UniFi OS.
+
+```
+Targets:
+├── UCG Fiber
+├── UDM / UDM-Pro
+└── CloudKey
+
+Features:
+├── Persists in /data partition
+├── Survives firmware updates
+└── Healthchecks.io monitoring
+```
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</td>
+<td>
+
+### [`argocd_2025`](https://github.com/x86txt/argocd_2025)
+
+GitOps Kubernetes platform.
+
+```
+Stack:
+├── ArgoCD (App-of-Apps)
+├── Infrastructure
+│   ├── MetalLB, Traefik
+│   └── cert-manager
+├── Observability
+│   ├── Prometheus, Grafana
+│   └── Loki, Promtail
+└── Secrets: Doppler
+```
+
+![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ git log --oneline contributions/`
+
+```
+a1b2c3d feat(GpgFrontend): Linux dark mode for Qt6    [C++]
+d4e5f6g feat(Pangolin): sticky sessions support       [TS]
+```
+
+| PR | Project | Description |
+|:---|:--------|:------------|
+| [#209](https://github.com/saturneric/GpgFrontend/pull/209) | GpgFrontend | Linux dark mode for Qt6 Fusion theme |
+| [#511](https://github.com/fosrl/pangolin/pull/511) | Pangolin | Sticky sessions for stateful apps |
 
 <div align="center">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-7E57C2?style=for-the-badge&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-0D96F6?style=for-the-badge&logoColor=white)
-![LocalAI](https://img.shields.io/badge/LocalAI-35B982?style=for-the-badge&logoColor=white)
+[![Sponsor](https://img.shields.io/badge/♥_SPONSOR-Pangolin-ff69b4?style=flat-square)](https://github.com/fosrl/pangolin)
 
 </div>
 
-> [!IMPORTANT]
-> This intersection of AI with traditional infrastructure is a fascinating frontier for automation, analysis, and decision support—and a major leverage point for high-performing engineering teams.
+---
 
-## Highlights
+## `$ cat /proc/ai`
 
-### Open source contributions (2025)
+```go
+package engineer
 
-I contribute to open source when I can, especially where reliability, automation, or user experience can be improved.
+import _ "embed"
 
-| Project | Contribution | Language |
-|--------|--------------|----------|
-| [GpgFrontend](https://github.com/saturneric/GpgFrontend/pull/209) | Added Linux dark mode detection for Fusion theme in Qt6, enabling the application to automatically adapt to system theme changes on Linux desktop environments. | C++ |
-| [Pangolin](https://github.com/fosrl/pangolin/pull/511) | Implemented sticky sessions functionality for backend resources, allowing session persistence when multiple targets exist—essential for stateful applications like VNC console sessions to Proxmox. | TypeScript |
+//go:embed inference.py
+var ai string  // from anthropic import Claude
+
+type Stack struct {
+    Tools    []string  // {"OpenAI", "Anthropic", "LM Studio", "LocalAI"}
+    Velocity int       // 10x
+    IPSafe   bool      // true
+}
+```
 
 <div align="center">
-  <img src="./assets/cursor-usage-2025.gif" alt="Cursor AI usage for 2025" width="75%" />
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-181717?style=flat-square&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-0D96F6?style=flat-square&logoColor=white)
+![LocalAI](https://img.shields.io/badge/LocalAI-35B982?style=flat-square&logoColor=white)
+
+<br/>
+
+<picture>
+  <img src="./assets/cursor-usage-2025.gif" alt="Cursor IDE usage metrics, 2025" width="75%" />
+</picture>
+
+<sub>`// AI-assisted development metrics, 2025`</sub>
+
 </div>
 
-## Toolbox (short version)
+---
 
-- **Languages & development**: Bash, Python, Go
-- **DevOps & automation**: Terraform, Ansible, Puppet, GitHub Actions, ArgoCD
-- **Containers & orchestration**: Docker, Kubernetes, Firecracker, AWS Fargate
-- **Observability & SRE**: Prometheus, VictoriaMetrics, Grafana, Loki, Datadog, New Relic, BetterStack, Opsgenie
-- **Data & storage**: PostgreSQL, MongoDB, DynamoDB
-- **Security & DevSecOps**: Snyk, SonarCloud, OWASP ZAP, Veracode, GitGuardian, Nessus, Codacy
-- **Platforms & virtualization**: Linux, Windows Server, Proxmox, VMware
-- **Cloud & edge**: AWS, Cloudflare, Azure, GCP, Vultr, Linode, Fly.io, Hetzner, OVH
+## `$ pacman -Qi toolbox`
+
+```
+Languages......: bash, python, go
+DevOps.........: terraform, ansible, puppet, github-actions, argocd
+Containers.....: docker, kubernetes, firecracker, fargate
+Observability..: prometheus, victoriametrics, grafana, loki, datadog
+Security.......: snyk, sonarcloud, owasp-zap, veracode, gitguardian, nessus
+Cloud..........: aws, cloudflare, azure, gcp, vultr, fly.io, hetzner
+Platforms......: linux, proxmox, vmware, windows-server
+```
 
 <details>
-  <summary><strong>Full skill matrix</strong> (realistic 1–5 ★ scale – click to expand)</summary>
+<summary><code>$ cat ~/.config/skills.yml</code></summary>
 
-  <br/>
+<br/>
 
-  I use a realistic proficiency scale where very few people in the world would truly merit a 5‑star rating in any technology.
+> Rating scale: 5★ = world-class mastery, 3★ = solid professional competence
 
-  > [!TIP]  
-  > A 2‑star rating represents average proficiency, 3‑stars indicates solid professional competence, 4‑stars represents significant expertise, and 5‑stars is reserved for world‑class mastery.
+### `development:`
 
-  ### Development & Scripting
+| skill | level | notes |
+|-------|-------|-------|
+| `bash` | `★★★☆☆` | Extensive automation |
+| `python` | `★★☆☆☆` | APIs, pipelines |
+| `go` | `★☆☆☆☆` | Microservices, CLIs |
 
-  Building tools and automation frameworks is my passion. I leverage my programming skills to create efficient solutions.
+### `devops:`
 
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | Bash | ★★★ | Extensive shell scripting for automation and system management |
-  | Python | ★★ | Building automation tools, APIs, and data processing pipelines |
-  | Go | ★ | Developing microservices and CLI tools for cloud environments |
+| skill | level | notes |
+|-------|-------|-------|
+| `terraform` | `★★★☆☆` | Multi-cloud IaC |
+| `puppet` | `★★★★☆` | Large-scale policy |
+| `ansible` | `★★☆☆☆` | Config management |
+| `github-actions` | `★★★☆☆` | CI/CD |
 
-  ### DevOps & Infrastructure as Code
+### `containers:`
 
-  I believe in infrastructure as code and automation to enable reliable, repeatable deployments.
+| skill | level | notes |
+|-------|-------|-------|
+| `docker` | `★★★★☆` | Optimized builds |
+| `kubernetes` | `★★★☆☆` | Orchestration |
+| `argocd` | `★★★☆☆` | GitOps |
 
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | Terraform | ★★★ | Managing cloud infrastructure across multiple providers |
-  | Ansible | ★★ | Configuration management and application deployment automation |
-  | Puppet | ★★★★ | Large-scale system configuration and policy enforcement |
-  | GitHub Actions | ★★★ | CI/CD pipeline automation and software delivery |
+### `observability:`
 
-  ### Site Reliability Engineering (SRE)
+| skill | level | notes |
+|-------|-------|-------|
+| `prometheus` | `★★★☆☆` | Metrics/alerting |
+| `grafana` | `★★★☆☆` | Visualization |
+| `datadog` | `★★★☆☆` | Cloud monitoring |
 
-  Ensuring systems are reliable, scalable, and maintainable is core to my approach.
+### `platforms:`
 
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | PromQL | ★★★ | Creating advanced monitoring queries and alerting rules |
-  | Groovy | ★★★ | Jenkins pipeline automation and scripting |
-  | Grafana | ★★★ | Building comprehensive monitoring dashboards and visualizations |
-  | Prometheus | ★★★ | Implementing metrics collection and alerting systems |
-  | Victoria Metrics | ★★★ | High-performance time series database management |
-  | Loki | ★★★ | Log aggregation and analysis at scale |
-  | InfluxDB | ★★ | Time-series data storage and querying |
-  | Datadog | ★★★ | Cloud-scale monitoring and observability platform |
-  | New Relic | ★★★ | Application performance monitoring and diagnostics |
-  | Betterstack | ★★★ | Uptime monitoring and incident management |
-  | Opsgenie | ★★ | Alert management and on-call scheduling |
-
-  ### Database Technologies
-
-  I work with various database solutions to ensure data persistence, performance, and reliability.
-
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | PostgreSQL | ★★★ | High-performance relational database management |
-  | MongoDB | ★★★ | Document-based NoSQL data storage and retrieval |
-  | DynamoDB | ★★★ | Serverless NoSQL database operations on AWS |
-
-  ### Containerization & Orchestration
-
-  Containerization forms the foundation of my modern application deployment strategy.
-
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | Docker | ★★★★ | Building optimized container images and deployment workflows |
-  | Firecracker | ★★★ | Lightweight virtualization for serverless containers |
-  | Kubernetes | ★★★ | Large-scale container orchestration and management |
-  | ArgoCD | ★★★ | GitOps-based continuous delivery for Kubernetes |
-  | AWS Fargate | ★★★ | Serverless container execution without managing infrastructure |
-
-  ### Security & DevSecOps
-
-  Security is integrated into every stage of my development and operations workflow.
-
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | Snyk | ★★★ | Dependency scanning and vulnerability management |
-  | Codacy | ★★★ | Automated code reviews and static analysis |
-  | SonarCloud | ★★★ | Continuous inspection of code quality and security |
-  | OWASP ZAP | ★★★ | Dynamic application security testing |
-  | Veracode | ★★★ | Static analysis security testing for applications |
-  | GitGuardian | ★★★ | Secret detection and remediation in code repositories |
-  | Nessus | ★★★ | Vulnerability scanning and security auditing |
-
-  ### Platforms
-
-  I work across various operating systems and virtualization platforms to build robust infrastructure.
-
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | Linux | ★★★★ | Deep expertise in RedHat and Ubuntu-based distributions |
-  | Windows Server | ★★★★ | Enterprise Windows infrastructure management |
-  | Proxmox | ★★★★ | Open-source virtualization platform administration |
-  | VMware | ★★★★ | Enterprise virtualization infrastructure design and management |
-
-  ### Cloud Providers
-
-  Multi-cloud expertise allows me to design and implement solutions across various platforms.
-
-  | Technology | Proficiency | Experience |
-  |------------|-------------|------------|
-  | AWS | ★★★★ | Comprehensive Amazon Web Services ecosystem expertise |
-  | Cloudflare | ★★★★ | Edge network services for content delivery, DDoS protection, and zero-trust security |
-  | Azure | ★★ | Microsoft Azure cloud platform for enterprise solutions |
-  | GCP | ★★ | Google Cloud Platform services and infrastructure |
-  | Vultr | ★★★★ | High-performance cloud computing deployment |
-  | Linode | ★★★ | Linux server infrastructure in the cloud |
-  | Fly.io | ★★★ | Deploying applications globally close to users |
-  | Hetzner | ★★★ | Dedicated server and cloud infrastructure management |
-  | OVH | ★★★ | European-based cloud and dedicated hosting solutions |
+| skill | level | notes |
+|-------|-------|-------|
+| `linux` | `★★★★☆` | RHEL, Ubuntu |
+| `aws` | `★★★★☆` | Full ecosystem |
+| `cloudflare` | `★★★★☆` | Edge, zero-trust |
+| `proxmox` | `★★★★☆` | Virtualization |
 
 </details>
 
-## 📜 Certifications
+---
 
-I maintain industry-recognized certifications to validate my expertise in cloud architecture and security.
-
-| Certification | Issuing Organization | Description |
-|---------------|----------------------|-------------|
-| [<img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />](https://www.credly.com/badges/560a4d43-a9c9-43dd-8d2c-dc17b4c0f5e3/public_url) | Amazon Web Services | **AWS Certified Solutions Architect - Associate**<br />Validates expertise in designing distributed systems on AWS. Demonstrates knowledge of AWS services, security best practices, and cost optimization. |
-| [<img src="https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" width="100" />](https://www.credly.com/badges/0e9019e7-545f-4243-9d8f-83c14c4dea7a/public_url) | (ISC)² | **Certified Information Systems Security Professional (CISSP)**<br />Demonstrates expertise across eight domains of information security, including security operations, asset security, and security architecture. |
-
-## 📫 Let’s connect
-
-I'm always open to interesting conversations, hard problems, and collaboration opportunities.
+## `$ gpg --list-keys certs/`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mevanssecurity/)
+<a href="https://www.credly.com/badges/560a4d43-a9c9-43dd-8d2c-dc17b4c0f5e3/public_url">
+<img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/0e9019e7-545f-4243-9d8f-83c14c4dea7a/public_url">
+<img src="https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" width="80" />
+</a>
+
+**AWS Solutions Architect** · **CISSP**
 
 </div>
 
 ---
 
-⭐️ From [x86txt](https://github.com/x86txt)
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   $ echo "Interesting problems, collaboration welcome"    ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Connect](https://img.shields.io/badge/ssh_mevans@linkedin-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mevanssecurity/)
+
+</div>
+
+---
+
+## `$ gpg --export --armor matt@secunit.io`
+
+<div align="center">
+
+![GPG](https://img.shields.io/badge/GPG-0093DD?style=flat-square&logo=gnuprivacyguard&logoColor=white)
+![KeyID](https://img.shields.io/badge/0x69D470703EAF7601-333?style=flat-square)
+
+</div>
+
+<details>
+<summary><code>$ cat publickey.asc</code></summary>
+
+<br/>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEZU9sQhYJKwYBBAHaRw8BAQdAX8i0gIEQHip34e5k2wJYH8CLov2j45jt
+0M4e/CvOY3XNIW1hdHRAc2VjdW5pdC5pbyA8bWF0dEBzZWN1bml0LmlvPsKM
+BBAWCgA+BYJlT2xCBAsJBwgJkGnUcHA+r3YBAxUICgQWAAIBAhkBApsDAh4B
+FiEEfzYORnxnKhalUHqCadRwcD6vdgEAAAz1AP4tzQ+DRZ2hX+FhQwMEbsyV
+RxWzgxkw8k6B4JLVPCMj5QEAgFvr13Xfn9kuA9hsd9gHE+77s9dK+qNwy2F0
+po35Pg3OOARlT2xCEgorBgEEAZdVAQUBAQdAXkJ1xOP7qU65XrIOmv53lF4M
++twHsyB6QcAANW0gxkADAQgHwngEGBYIACoFgmVPbEIJkGnUcHA+r3YBApsM
+FiEEfzYORnxnKhalUHqCadRwcD6vdgEAAAvWAQCIIUi3S6fshC6Rh8W5f6q0
+A6Vd+LiN+d+cumz529tT+gEA3OeZ1fflS9NYuMEPzq49TvqkzoyukizhrAJ5
+Jd9oXw8=
+=0Qe6
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+**[Download public key](./assets/publickey.matt@secunit.io-7f360e467c672a16a5507a8269d470703eaf7601.asc)**
+
+</details>
+
+---
+
+<div align="center">
+
+<sub>`exit 0` · [x86txt](https://github.com/x86txt)</sub>
+
+</div>
