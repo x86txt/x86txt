@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
@@ -5,12 +7,10 @@
 ║   │││├─┤ │  │   ├┤ └┐┌┘├─┤│││└─┐                          ║
 ║   ┴ ┴┴ ┴ ┴  ┴   └─┘ └┘ ┴ ┴┘└┘└─┘                          ║
 ║                                                           ║
-║   Principal Engineer · Cloud · DevOps · Security          ║
+║   DevOps · Security · AI Practitioner · Mentor            ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
-
-<div align="center">
 
 <img src="./assets/memoji.png" width="120" alt="matt" />
 
@@ -46,6 +46,8 @@ drwxr-xr-x  aiTriage           Py/TS     SRE incident analysis + LLM reports
 drwxr-xr-x  unifi_contrld      Shell     ControlD on UniFi, persists updates
 drwxr-xr-x  argocd_2025        Shell     GitOps K8s, App-of-Apps pattern
 ```
+
+<div align="center">
 
 <table>
 <tr>
@@ -137,9 +139,13 @@ Stack:
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## `$ git log --oneline contributions/`
+
+<div align="center">
 
 ```
 a1b2c3d feat(GpgFrontend): Linux dark mode for Qt6    [C++]
@@ -150,8 +156,6 @@ d4e5f6g feat(Pangolin): sticky sessions support       [TS]
 |:---|:--------|:------------|
 | [#209](https://github.com/saturneric/GpgFrontend/pull/209) | GpgFrontend | Linux dark mode for Qt6 Fusion theme |
 | [#511](https://github.com/fosrl/pangolin/pull/511) | Pangolin | Sticky sessions for stateful apps |
-
-<div align="center">
 
 [![Sponsor](https://img.shields.io/badge/♥_SPONSOR-Pangolin-ff69b4?style=flat-square)](https://github.com/fosrl/pangolin)
 
