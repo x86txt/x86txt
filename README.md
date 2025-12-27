@@ -42,7 +42,8 @@ that are resilient, observable, and maintainable.
 
 ```
 drwxr-xr-x  goWipeMe           Go        Privacy utility, DoD-grade wiping
-drwxr-xr-x  aiTriage           Py/TS     SRE incident analysis + LLM reports
+drwxr-xr-x  aiTriage           Py/TS     SRE AI Agent and Daemon, plus universal SRE Skill
+drwxr-xr-x  mattsblocklist     Go        UniFi region-blocking country blocklist updater
 drwxr-xr-x  unifi_contrld      Shell     ControlD on UniFi, persists updates
 drwxr-xr-x  argocd_2025        Shell     GitOps K8s, App-of-Apps pattern
 ```
@@ -76,7 +77,7 @@ Features:
 
 ### [`aiTriage`](https://github.com/x86txt/portfolio_sre_agent)
 
-Automated SRE incident analysis and correlation.
+SRE AI Agent and Daemon, plus universal SRE Skill.
 
 ```
 Pipeline:
@@ -134,6 +135,30 @@ Stack:
 
 ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [`mattsblocklist`](https://github.com/x86txt/mattsblocklist)
+
+Keeps UniFi Region Blocking country lists updated (aggregate + apply).
+
+```
+Commands:
+├── discover   (find the region-blocking API endpoint)
+├── aggregate  (build blocked_countries.txt/json)
+└── configure  (apply list to UniFi controller)
+```
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+</td>
+<td>
+
+&nbsp;
 
 </td>
 </tr>
