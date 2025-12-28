@@ -54,9 +54,19 @@ drwxr-xr-x  argocd_2025        Shell     GitOps K8s, App-of-Apps pattern
 
 <table>
 <tr>
-<td>
+<td valign="top" align="center">
 
 ### [`goWipeMe`](https://github.com/Secunit-Mercantile/goWipeMe)
+
+</td>
+<td valign="top" align="center">
+
+### [`aiTriage`](https://github.com/x86txt/portfolio_sre_agent)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 Cross-platform privacy & data sanitization. GUI + TUI interfaces.
 
@@ -71,13 +81,8 @@ Features:
 └── Dry-run preview
 ```
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-
 </td>
-<td>
-
-### [`aiTriage`](https://github.com/x86txt/portfolio_sre_agent)
+<td valign="top">
 
 SRE AI Agent and Daemon, plus universal SRE Skill.
 
@@ -89,16 +94,47 @@ Pipeline:
 └── LLM narrative (optional)
 ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="20" />
+  <img alt="Bubble Tea" src="https://img.shields.io/badge/Bubble_Tea-00ADD8?style=flat-square&logo=go&logoColor=white" height="20" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" height="20" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20" />
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-F9F1E1?style=flat-square&logo=bun&logoColor=000000" height="20" />
+  <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square" height="20" />
+</p>
+
+</td>
+<td valign="top">
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" height="20" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-181717?style=flat-square&logo=anthropic&logoColor=white" height="20" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top" align="center">
 
 ### [`unifi_contrld`](https://github.com/x86txt/unifi_contrld)
+
+</td>
+<td valign="top" align="center">
+
+### [`argocd_2025`](https://github.com/x86txt/argocd_2025)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 ControlD daemon automation for UniFi OS.
 
@@ -114,12 +150,8 @@ Features:
 └── Healthchecks.io monitoring
 ```
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
 </td>
-<td>
-
-### [`argocd_2025`](https://github.com/x86txt/argocd_2025)
+<td valign="top">
 
 GitOps Kubernetes platform.
 
@@ -135,15 +167,39 @@ Stack:
 └── Secrets: Doppler
 ```
 
-![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<p align="center">
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="20" />
+</p>
+
+</td>
+<td valign="top">
+
+<p align="center">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20" />
+  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="20" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top" align="center">
 
 ### [`mattsblocklist`](https://github.com/x86txt/mattsblocklist)
+
+</td>
+<td valign="top">
+
+&nbsp;
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 Keeps UniFi Region Blocking country lists updated (aggregate + apply).
 
@@ -154,11 +210,23 @@ Commands:
 └── configure  (apply list to UniFi controller)
 ```
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+</td>
+<td valign="top">
+
+&nbsp;
 
 </td>
-<td>
+</tr>
+<tr>
+<td valign="top">
+
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="20" />
+  <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square" height="20" />
+</p>
+
+</td>
+<td valign="top">
 
 &nbsp;
 
