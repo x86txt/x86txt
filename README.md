@@ -2,7 +2,6 @@
   <img src="./assets/banner.png" alt="Matthew Evans — Principal Engineer, SRE, DevOps" width="100%" />
   <br /><br />
   <a href="https://github.com/x86txt"><img src="https://img.shields.io/badge/GitHub-16161D?style=for-the-badge&logo=github&logoColor=C800DF" alt="GitHub" /></a>
-  <a href="https://twitter.com/johndoe"><img src="https://img.shields.io/badge/X-16161D?style=for-the-badge&logo=x&logoColor=C800DF" alt="X" /></a>
   <a href="https://linkedin.com/in/sregeek"><img src="https://img.shields.io/badge/LinkedIn-16161D?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://secunit.io"><img src="https://img.shields.io/badge/secunit.io-16161D?style=for-the-badge&logo=googlechrome&logoColor=C800DF" alt="secunit.io" /></a>
 </div>
