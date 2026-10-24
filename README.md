@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C800DF,50:E60076,100:3F3F4A&height=200&section=header&text=Matthew%20Evans&fontSize=80&fontColor=F3F4F6&fontAlignY=35&animation=fadeIn" alt="Matthew Evans" />
 
   <div align="center">
   <img src="./assets/banner.png" alt="Matthew Evans — Principal Engineer, SRE, DevOps" width="100%" />
