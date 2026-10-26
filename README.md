@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Matthew Evans — Principal Engineer, SRE, DevOps" width="100%" />
+  <img src="./assets/left-aligned-banner.png" alt="Matthew Evans — Principal Engineer, SRE, DevOps" width="100%" />
   <br /><br />
   <a href="https://github.com/x86txt"><img src="https://img.shields.io/badge/GitHub-16161D?style=for-the-badge&logo=github&logoColor=C800DF" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/sregeek"><img src="https://img.shields.io/badge/LinkedIn-16161D?style=for-the-badge" alt="LinkedIn" /></a>
